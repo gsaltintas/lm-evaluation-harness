@@ -1,0 +1,3 @@
+dataset_name: toksuite_english_homoglyphs
+include: toksuite_english_base.yaml
+task: toksuite_english_homoglyphs

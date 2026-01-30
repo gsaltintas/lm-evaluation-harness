@@ -1,0 +1,3 @@
+dataset_name: toksuite_farsi_code_language_script_switching
+include: toksuite_farsi_base.yaml
+task: toksuite_farsi_code_language_script_switching

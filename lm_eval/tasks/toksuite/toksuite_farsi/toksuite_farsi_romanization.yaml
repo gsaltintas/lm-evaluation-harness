@@ -1,0 +1,3 @@
+dataset_name: toksuite_farsi_romanization
+include: toksuite_farsi_base.yaml
+task: toksuite_farsi_romanization

@@ -1,0 +1,3 @@
+dataset_name: toksuite_stem_diacriticized_styling
+include: toksuite_stem_base.yaml
+task: toksuite_stem_diacriticized_styling

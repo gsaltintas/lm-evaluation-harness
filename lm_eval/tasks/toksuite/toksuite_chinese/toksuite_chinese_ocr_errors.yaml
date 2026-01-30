@@ -1,0 +1,3 @@
+dataset_name: toksuite_chinese_ocr_errors
+include: toksuite_chinese_base.yaml
+task: toksuite_chinese_ocr_errors
