@@ -1,3 +1,6 @@
 dataset_name: toksuite_turkish_equivalent_expressions
 include: toksuite_turkish_base.yaml
 task: toksuite_turkish_equivalent_expressions
+metadata:
+  task_pretty_name: Equivalent expressions
+  num_samples: 17

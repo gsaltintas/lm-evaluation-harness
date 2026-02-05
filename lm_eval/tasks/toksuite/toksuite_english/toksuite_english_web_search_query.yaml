@@ -1,3 +1,6 @@
 dataset_name: toksuite_english_web_search_query
 include: toksuite_english_base.yaml
 task: toksuite_english_web_search_query
+metadata:
+  task_pretty_name: Web search query
+  num_samples: 37

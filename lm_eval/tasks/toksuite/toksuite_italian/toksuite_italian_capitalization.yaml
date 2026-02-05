@@ -1,3 +1,6 @@
 dataset_name: toksuite_italian_capitalization
 include: toksuite_italian_base.yaml
 task: toksuite_italian_capitalization
+metadata:
+  task_pretty_name: Capitalization
+  num_samples: 9

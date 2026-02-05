@@ -1,3 +1,6 @@
 dataset_name: toksuite_turkish_canonical
 include: toksuite_turkish_base.yaml
 task: toksuite_turkish_canonical
+metadata:
+  task_pretty_name: Canonical
+  num_samples: 40

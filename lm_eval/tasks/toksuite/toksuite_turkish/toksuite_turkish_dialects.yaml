@@ -1,3 +1,6 @@
 dataset_name: toksuite_turkish_dialects
 include: toksuite_turkish_base.yaml
 task: toksuite_turkish_dialects
+metadata:
+  task_pretty_name: Dialects
+  num_samples: 36

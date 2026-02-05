@@ -1,3 +1,6 @@
 dataset_name: toksuite_chinese_traditional
 include: toksuite_chinese_base.yaml
 task: toksuite_chinese_traditional
+metadata:
+  task_pretty_name: Traditional
+  num_samples: 33

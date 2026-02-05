@@ -1,3 +1,6 @@
 dataset_name: toksuite_english_superscript_subscript_styling
 include: toksuite_english_base.yaml
 task: toksuite_english_superscript_subscript_styling
+metadata:
+  task_pretty_name: Superscript/subscript
+  num_samples: 40

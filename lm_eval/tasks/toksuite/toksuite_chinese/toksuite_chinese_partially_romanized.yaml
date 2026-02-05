@@ -1,3 +1,6 @@
 dataset_name: toksuite_chinese_partially_romanized
 include: toksuite_chinese_base.yaml
 task: toksuite_chinese_partially_romanized
+metadata:
+  task_pretty_name: Partially romanized
+  num_samples: 40

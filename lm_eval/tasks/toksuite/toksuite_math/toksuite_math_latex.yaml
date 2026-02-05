@@ -1,3 +1,5 @@
 dataset_name: toksuite_math_latex
 include: toksuite_math_base.yaml
 task: toksuite_math_latex
+metadata:
+  task_pretty_name: LaTeX

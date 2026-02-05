@@ -1,3 +1,6 @@
 dataset_name: toksuite_english_inflections
 include: toksuite_english_base.yaml
 task: toksuite_english_inflections
+metadata:
+  task_pretty_name: Inflections
+  num_samples: 14

@@ -1,3 +1,6 @@
 dataset_name: toksuite_stem_space_removal
 include: toksuite_stem_base.yaml
 task: toksuite_stem_space_removal
+metadata:
+  task_pretty_name: "Space removal"
+  num_samples: 41

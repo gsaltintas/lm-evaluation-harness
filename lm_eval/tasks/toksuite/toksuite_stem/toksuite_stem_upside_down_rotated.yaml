@@ -1,3 +1,6 @@
 dataset_name: toksuite_stem_upside_down_rotated
 include: toksuite_stem_base.yaml
 task: toksuite_stem_upside_down_rotated
+metadata:
+  task_pretty_name: "Upside Down/Rotated"
+  num_samples: 17

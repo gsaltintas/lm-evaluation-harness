@@ -1,3 +1,6 @@
 dataset_name: toksuite_farsi_romanization
 include: toksuite_farsi_base.yaml
 task: toksuite_farsi_romanization
+metadata:
+  task_pretty_name: Romanization
+  num_samples: 40

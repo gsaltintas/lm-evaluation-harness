@@ -1,3 +1,6 @@
 dataset_name: toksuite_stem_spelled_out
 include: toksuite_stem_base.yaml
 task: toksuite_stem_spelled_out
+metadata:
+  task_pretty_name: "Spelled out"
+  num_samples: 25

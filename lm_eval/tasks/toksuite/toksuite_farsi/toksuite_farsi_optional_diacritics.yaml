@@ -1,3 +1,6 @@
 dataset_name: toksuite_farsi_optional_diacritics
 include: toksuite_farsi_base.yaml
 task: toksuite_farsi_optional_diacritics
+metadata:
+  task_pretty_name: Optional diacritics
+  num_samples: 40

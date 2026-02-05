@@ -1,3 +1,6 @@
 dataset_name: toksuite_stem_superscript_subscript
 include: toksuite_stem_base.yaml
 task: toksuite_stem_superscript_subscript
+metadata:
+  task_pretty_name: Superscript/subscript
+  num_samples: 29

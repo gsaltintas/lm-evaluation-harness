@@ -1,3 +1,6 @@
 dataset_name: toksuite_stem_fullwidth_characters
 include: toksuite_stem_base.yaml
 task: toksuite_stem_fullwidth_characters
+metadata:
+  task_pretty_name: "Fullwidth Characters"
+  num_samples: 17

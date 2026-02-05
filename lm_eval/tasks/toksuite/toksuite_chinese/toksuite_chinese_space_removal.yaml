@@ -1,3 +1,6 @@
 dataset_name: toksuite_chinese_space_removal
 include: toksuite_chinese_base.yaml
 task: toksuite_chinese_space_removal
+metadata:
+  task_pretty_name: Space removal
+  num_samples: 40

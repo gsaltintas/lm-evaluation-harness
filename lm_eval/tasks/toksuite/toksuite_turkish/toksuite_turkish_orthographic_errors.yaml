@@ -1,3 +1,6 @@
 dataset_name: toksuite_turkish_orthographic_errors
 include: toksuite_turkish_base.yaml
 task: toksuite_turkish_orthographic_errors
+metadata:
+  task_pretty_name: Orthographic errors
+  num_samples: 40

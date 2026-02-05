@@ -1,3 +1,6 @@
 dataset_name: toksuite_english_scripted_text
 include: toksuite_english_base.yaml
 task: toksuite_english_scripted_text
+metadata:
+  task_pretty_name: Scripted text
+  num_samples: 40

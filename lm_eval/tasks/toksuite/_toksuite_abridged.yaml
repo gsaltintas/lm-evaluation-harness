@@ -79,7 +79,7 @@ task:
       - toksuite_stem_unicode_formatting
 
 
-# lm-eval --model hf --model_args pretrained=openai-community/gpt2 --tasks toksuite --log_samples --output_path=/tmp/lm-eval/toksuite
+# lm-eval --model hf --model_args pretrained=openai-community/gpt2 --tasks toksuite_math --log_samples --output_path=/tmp/lm-eval/toksuite
 
 
 metadata:

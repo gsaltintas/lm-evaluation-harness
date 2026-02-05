@@ -1,3 +1,6 @@
 dataset_name: toksuite_chinese_equivalent_expressions
 include: toksuite_chinese_base.yaml
 task: toksuite_chinese_equivalent_expressions
+metadata:
+  task_pretty_name: Equivalent expressions
+  num_samples: 40

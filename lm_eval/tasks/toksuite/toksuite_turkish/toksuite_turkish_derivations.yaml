@@ -1,3 +1,6 @@
 dataset_name: toksuite_turkish_derivations
 include: toksuite_turkish_base.yaml
 task: toksuite_turkish_derivations
+metadata:
+  task_pretty_name: Derivations
+  num_samples: 41

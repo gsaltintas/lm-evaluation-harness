@@ -1,3 +1,6 @@
 dataset_name: toksuite_english_keyboard_proximity_errors
 include: toksuite_english_base.yaml
 task: toksuite_english_keyboard_proximity_errors
+metadata:
+  task_pretty_name: Keyboard proximity errors
+  num_samples: 41
