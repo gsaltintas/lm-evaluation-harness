@@ -1,0 +1,13 @@
+task: flores_plus_awa_Deva
+dataset_path: openlanguagedata/flores_plus
+dataset_name: awa_Deva
+test_split: devtest
+validation_split: dev
+# doc_to_text: "{{sentence}}"
+# doc_to_target: ""
+doc_to_text: ""
+doc_to_target: "{{sentence}}"
+description: "FLORES-200 awa_Deva — rolling log-likelihood for BPB / perplexity."
+output_type: loglikelihood_rolling
+metadata:
+  version: 1.0

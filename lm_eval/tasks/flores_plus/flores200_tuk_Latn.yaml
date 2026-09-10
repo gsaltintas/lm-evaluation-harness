@@ -1,0 +1,13 @@
+task: flores_plus_tuk_Latn
+dataset_path: openlanguagedata/flores_plus
+dataset_name: tuk_Latn
+test_split: devtest
+validation_split: dev
+# doc_to_text: "{{sentence}}"
+# doc_to_target: ""
+doc_to_text: ""
+doc_to_target: "{{sentence}}"
+description: "FLORES-200 tuk_Latn — rolling log-likelihood for BPB / perplexity."
+output_type: loglikelihood_rolling
+metadata:
+  version: 1.0
